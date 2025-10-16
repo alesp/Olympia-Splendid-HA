@@ -1,0 +1,5 @@
+DOMAIN = "olympia_splendid"
+CONF_TEMP_SENSOR = "temp_sensor_entity_id"
+CONF_DEVICE_IP = "device_ip"
+CONF_DEVICE_MAC = "device_mac"
+CONF_DEVICE_TYPE = "device_type"
